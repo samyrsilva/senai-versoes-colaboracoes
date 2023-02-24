@@ -1,0 +1,13 @@
+Use um sistema de controle de versão: O primeiro passo é sempre usar um sistema de controle de versão, como o Git ou o Subversion, para gerenciar o código.
+
+Use uma convenção de nomenclatura: É importante estabelecer uma convenção de nomenclatura clara para suas versões, como SemVer (Semantic Versioning).
+
+Marque versões em marcos importantes: Quando você atinge um marco importante em seu projeto, como um lançamento de versão principal ou um marco de recursos significativo, é uma boa prática marcar essa versão com uma tag específica.
+
+Descreva o que mudou em cada versão: É importante incluir uma descrição clara e concisa do que mudou em cada versão.
+
+Use ramificações para desenvolvimento e correções: Use ramificações separadas para desenvolvimento de novos recursos e correção de bugs. Isso ajuda a manter o código principal limpo e estável.
+
+Faça testes antes de liberar uma nova versão: Antes de lançar uma nova versão, faça testes para garantir que o código esteja funcionando corretamente e que todas as alterações estejam funcionando como o esperado.
+
+Documente suas versões: Documente cada versão em um local acessível para que os usuários possam entender as alterações e novos recursos.
