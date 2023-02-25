@@ -1,0 +1,19 @@
+Inicializar o sistema e solicitar o saldo inicial da peça.
+Exibir o saldo inicial da peça.
+Enquanto o usuário quiser continuar executando operações:
+Solicitar ao usuário que selecione o tipo de operação:
+1: compra (entrada) de peças
+2: venda (saída) de peças
+0: encerrar o programa
+Se o usuário selecionar 1 (compra):
+Solicitar a quantidade de peças compradas.
+Adicionar a quantidade de peças compradas ao saldo atual.
+Exibir o saldo atual.
+Se o usuário selecionar 2 (venda):
+Solicitar a quantidade de peças vendidas.
+Verificar se o saldo atual é suficiente para a venda:
+Se o saldo for suficiente, subtrair a quantidade de peças vendidas do saldo atual.
+Se o saldo for insuficiente, exibir uma mensagem de erro e voltar ao passo 3.1.
+Exibir o saldo atual.
+Se o usuário selecionar 0 (encerrar):
+Encerrar o programa.
