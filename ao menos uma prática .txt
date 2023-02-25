@@ -1,0 +1,10 @@
+Exemplo:
+
+Vamos supor que você está desenvolvendo um software e está pronto para lançar sua primeira versão. Você pode usar a convenção SemVer (Semantic Versioning), que segue o formato MAJOR.MINOR.PATCH.
+
+A versão MAJOR é atualizada quando há mudanças incompatíveis na API.
+A versão MINOR é atualizada quando novas funcionalidades são adicionadas de forma compatível com as versões anteriores.
+A versão PATCH é atualizada quando correções de bugs são feitas.
+Digamos que sua primeira versão do software contenha algumas correções de bugs, além de uma nova funcionalidade. Você pode rotular essa versão como "1.1.0", que indica uma atualização menor com uma nova funcionalidade. Em seguida, você pode atualizar a versão para "1.1.1" se houver uma correção adicional de bugs.
+
+Ao seguir uma convenção de nomenclatura, você pode tornar suas versões mais fáceis de entender e gerenciar para sua equipe e usuários finais.
